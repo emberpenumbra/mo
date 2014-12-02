@@ -1,0 +1,9 @@
+/* add custom CSS here, it will be included in every page */
+html, body, div {
+	background-color: black;
+	height: 100%;
+}
+img {
+	width: auto;
+	height: 100%;
+}
